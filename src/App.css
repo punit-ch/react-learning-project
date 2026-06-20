@@ -95,10 +95,9 @@ body {
   transform: translateX(4px);
 }
 
-/* Custom border colors matching interview phases */
-.job-card.applied { border-left-color: #3b82f6; }       /* Blue */
-.job-card.interviewing { border-left-color: #eab308; }  /* Yellow */
-.job-card.offer { border-left-color: #22c55e; }         /* Green */
+.job-card.applied { border-left-color: #3b82f6; }      
+.job-card.interviewing { border-left-color: #eab308; } 
+.job-card.offer { border-left-color: #22c55e; }         
 
 .job-info h3 {
   margin: 0 0 5px 0;
